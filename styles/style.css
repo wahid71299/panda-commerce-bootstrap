@@ -1,0 +1,21 @@
+.panda-bg-info{
+    background-color: #FEEAE9;
+}
+.catagoris img{
+    width: 100px;
+}
+.linear{
+    background-color: orange;
+}
+.success{
+    background-color: magenta;
+}
+.primary{
+    background-color: blue;
+}
+.btn-panda{
+    background-color: magenta;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: 0;
+}
